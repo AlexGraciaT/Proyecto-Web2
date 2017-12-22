@@ -55,3 +55,5 @@ public void toString() {
 - [ ] Opción 1
 - [X] Opción 2
 - [ ] Opción 3
+
+AGREGAMOS UNA LINEA AL FICHERO Readme.md
